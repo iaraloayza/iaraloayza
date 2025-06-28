@@ -24,9 +24,9 @@ Feel free to reach out if you’d like to collaborate or discuss ideas! 🚀
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iaraloayza&theme=aura" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iaraloayza&theme=aura&utc_offset=8" height="150" />
-  <img alt="Top Langs" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iaraloayza&theme=aura" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iaraloayza&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=iaraloayza&theme=synthwave&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaraloayza&theme=synthwave&hide_border=true&layout=compact&card_width=320" height="170" />
 </div>
 
 ## 🏆 GitHub Trophies
